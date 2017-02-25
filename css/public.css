@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.fl{
+    float:left;
+}
+.fr{
+    float:right;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-size: 12px;
+    background: #fff;
+}
+ul,li{
+    list-style: none;
+}
+.clear{
+    clear:both;
+}
+input{
+    outline: none;
+}
+a>img{
+    border:none;
+}
